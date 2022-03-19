@@ -139,7 +139,7 @@ def room_6_doors():
     typingPrint('\nNoo! ')
     time.sleep(0.5)
     typingPrint("\nWhy did you have to choose this door! You were sooooo close T^T")
-    time.sleeo(0.5)
+    time.sleep(0.5)
     typingPrint("I really thought you would be the first to win!")
     time.sleep(1)
     typingPrint("\n\nGoodbye my friend :( It was fun.")
