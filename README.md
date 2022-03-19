@@ -7,3 +7,4 @@ The reuqirements included:
   2. Something to navigate between the rooms
   3. A menu (how to play, exit, help etc)
 
+It is a casual and friendly game cated towards people in highschool (or above). This game also includes mini games in it that ranges from using your knowledge to testing your luck!  
